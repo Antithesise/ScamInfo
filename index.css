@@ -1,0 +1,47 @@
+:root {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+body {
+    background: lightgrey;
+}
+
+div {
+    display: block;
+    margin: 5em;
+    padding: 5em;
+    background: white;
+}
+
+h1 {
+    font-size: 4em;
+    text-align: center;
+}
+
+h2 {
+    margin: 0;
+    font-size: 2em;
+    text-align: center;
+}
+
+h3 {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+p {
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 2.5em;
+    white-space: pre-wrap;
+}
+
+span {
+    white-space: nowrap;
+}
+
+img {
+    width: 50%;
+    margin-left: 25%;
+}
