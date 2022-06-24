@@ -46,3 +46,7 @@ img {
     width: 50%;
     margin-left: 25%;
 }
+
+hr {
+    border: 1px solid lightgrey;
+}
